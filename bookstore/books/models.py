@@ -27,7 +27,6 @@ class User(AbstractUser):
 
 
 
-# User._meta.get_field('groups').remote_field.related_name = 'books_user_set'
-# User._meta.get_field('user_permissions').remote_field.related_name = 'books_user_set'
+
    
 
